@@ -1,4 +1,5 @@
 おはよう!
 Hello!
+hello!
 こんばんは.
 foooo!
